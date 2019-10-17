@@ -4,10 +4,8 @@ This repository contains my personal projects. The projects have been further ca
 - The names are *specific* and consists of *minimal* set of *related* and *meaningful* words.  
 - All the words within name are in *lowercase* and separated by *hyphen*.
 
-Note: Each project has a separate README file with proper citations and references to the resources.
 ### List of Projects
 - udacity/neighborhood-map
-
 
 ### Feedback
 Contributions are always *welcome*. Please send your feedback at <amitananddotxyz@gmail.com>.
