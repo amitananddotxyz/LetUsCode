@@ -22,8 +22,8 @@ This project implements Google Map API and uses knockoutJS to handle features su
 - [Wikipedia API](https://en.wikipedia.org/w/api.php)
 - [Jquery](https://jquery.com/)
 
-[1]: ../images/1.png "Overall view"
-[2]: ../images/2.png "Marker info"
-[3]: ../images/3.png "Location filter"
-[4]: ../images/4.png "Search panel toggle"
-[5]: ../images/5.png "Smaller screen view"
+[1]: /images/1.png "Overall view"
+[2]: /images/2.png "Marker info"
+[3]: /images/3.png "Location filter"
+[4]: /images/4.png "Search panel toggle"
+[5]: /images/5.png "Smaller screen view"
