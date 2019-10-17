@@ -4,11 +4,11 @@ This repository contains my personal projects. The projects have been further ca
 - The names are *specific* and consists of *minimal* set of *related* and *meaningful* words.  
 - All the words within name are in *lowercase* and separated by *hyphen*.
 
-### List of Projects
+## List of Projects
 - udacity/neighborhood-map
 
-### Feedback
+## Feedback
 Contributions are always *welcome*. Please send your feedback at <amitananddotxyz@gmail.com>.
 
-### License
+## License
 All the projects are licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details.
