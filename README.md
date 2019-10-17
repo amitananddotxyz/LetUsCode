@@ -13,4 +13,4 @@ Note: Each project has a separate README file with proper citations and referenc
 Contributions are always *welcome*. Please send your feedback at <amitananddotxyz@gmail.com>.
 
 ### License
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details.
+All the projects are licensed under the GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details.
