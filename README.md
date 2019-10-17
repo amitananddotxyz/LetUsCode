@@ -6,7 +6,7 @@ This repository contains my personal projects. The projects have been further ca
 
 Note: Each project has a separate README file with proper citations and references to the resources.
 ### List of Projects
-- udacity-front-end-web-development-nanodegree/neighborhood-map
+- udacity/neighborhood-map
 
 
 ### Feedback
